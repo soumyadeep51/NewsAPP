@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+    {
+    "source": {
+    "id": "el-mundo",
+    "name": "El Mundo"
+    },
+    "author": null,
+    "title": "La empresa de los 'buscas' de HizbulÃ¡: \"EstÃ¡ claro que fueron modificados en Europa. Tiene que ser la fÃ¡brica de HungrÃ­a la que debe dar explicaciones\"",
+    "description": "Muchos periodistas se concentraron este miÃ©rcoles por la maÃ±ana en un gran parque de oficinas en la ciudad satÃ©lite de Nuevo Taipei, a media hora en coche de Taipei, la capital...",
+    "url": "https://www.elmundo.es/internacional/2024/09/18/66ea9eece85ece8a598b459d.html",
+    "urlToImage": "https://phantom-elmundo.unidadeditorial.es/7c0843f48913f602a8f6ade2db0c3c68/resize/1200/f/webp/assets/multimedia/imagenes/2024/09/18/17266527493856.jpg",
+    "publishedAt": "2024-09-18T14:11:36Z",
+    "content": "Muchos periodistas se concentraron este miÃ©rcoles por la maÃ±ana en un gran parque de oficinas en la ciudad satÃ©lite de Nuevo Taipei, a media hora en coche de Taipei, la capital de TaiwÃ¡n. Desde m… [+3928 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news-in",
+    "name": "Google News (India)"
+    },
+    "author": "The Times of India",
+    "title": "Indus Water Treaty: India serves formal notice to Pakistan, seeks modification - The Times of India",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ3ZRRWlPQ1hDYWwzdlV4NHA1WDcxN08xNEg0aVRwU1BBSE9ISXhYNDUxYUNPU3lCMENaTG9pajlmNnJrZ0Fud0htS1ZmSVVFbDJ0LUptQnJ2TlJENDl1WUo1Z2Nxc1h3T2liVE1GWmhBcEZBVEJhcU8wVXFuQU9nZE02NWxPeVJDajB4bjVHN0pQSVhaTVdvZEVFU1Y4UnZLMF9iUFdPM3V4WTZmMEllSldDYVQxMHZCZXQyX3FoVjhfOUcyM2w2UUZGMXQtQXRDMUFZekVhRmVJN0Fn?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-09-18T09:48:00+00:00",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "newsweek",
+    "name": "Newsweek"
+    },
+    "author": "Dev Pragad, President and CEO",
+    "title": "On the World Stage: Newsweek's Interviews with Indian Prime Minister Modi and Japanese Prime Minister Kishida",
+    "description": "We aim to transcend surface-level narratives, offering coverage that creates opportunities for true international dialogue.",
+    "url": "https://www.newsweek.com/world-stage-newsweeks-interviews-indian-prime-minister-modi-japanese-prime-minister-kishida-1895648",
+    "urlToImage": "https://d.newsweek.com/en/full/2385807/dev-pragad-modi-kishida-newsweek-interview.jpg",
+    "publishedAt": "2024-04-30T14:55:15Z",
+    "content": "Newsweek's core mission is to provide our readers with a deep and nuanced understanding of the world around them. That means embracing a truly global perspective. We aim to transcend surface-level na… [+5470 chars]"
+    },
+    {
+    "source": {
+    "id": "ansa",
+    "name": "ANSA.it"
+    },
+    "author": "ANSA.it",
+    "title": "Ue, 'ricevuta richiesta di modifica Pnrr sulla quarta rata' - Ultima Ora",
+    "description": "\"Confermiamo di aver ricevuto la proposta di revisione mirata del piano dell'Italia, relativa a 10 misure nell'ambito della quarta richiesta di pagamento. (ANSA)",
+    "url": "http://www.ansa.it/sito/notizie/topnews/2023/07/11/ue-ricevuta-richiesta-di-modifica-pnrr-sulla-quarta-rata_0a878089-0ee9-4b88-bc67-01f22ffc3fed.html",
+    "urlToImage": "https://www.ansa.it/webimages/img_700/2022/12/14/b5c5b6ffc9b7856df9da44dc67fe69af.jpg",
+    "publishedAt": "2023-07-11T17:24:00Z",
+    "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all’abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad … [+320 chars]"
+    },
+    {
+    "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+    },
+    "author": "TIMESOFINDIA.COM",
+    "title": "'Inappropriate': PM Modi objects to 'protocol break' during meeting; Delhi CM expresses regret",
+    "description": "India News: Delhi chief minister Arvind Kejriwal on Friday faced flak for sharing a live telecast of an \"in-house\" meeting with Prime Minister Narendra Modi where",
+    "url": "http://timesofindia.indiatimes.com/india/delhi-cmo-expresses-regret-over-televised-address-during-meeting-with-pm-modi/articleshow/82213159.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-82213159,width-1070,height-580,imgsize-134672,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2021-04-23T03:54:00Z",
+    "content": null
+    }
+    ]
+    }
